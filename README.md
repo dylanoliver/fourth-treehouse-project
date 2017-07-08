@@ -1,2 +1,2 @@
-# fourth-treehouse-project
-A responsive registration form for third techdegree project
+# interactive-photo-gallery
+Used HTML, CSS and jQuery/JavaScript to create an interactive, searchable gallery of photos.
